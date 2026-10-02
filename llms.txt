@@ -1,0 +1,24 @@
+# BOSTHLM
+
+> Mäklarbyråns bostäder BOSTHLM.
+
+- Telefon: +468394430
+- E-post: bandhagen@bosthlm.se
+- Webbplats: https://bosthlm.se/
+- Adress: Mosstenabacken 2, 124 32 Bandhagen
+
+## Bostäder (14)
+- Tomt, 1 449 m² — Högmora, 3 995 000 kr: tomt-1-449-m2-21361329/
+- Lägenhet, 1 rum, 45,5 m² — Fruängen, 1 895 000 kr: lagenhet-1-rum-45-5-m2-21514134/
+- Lägenhet, 1 rum, 39 m² — Älvsjö, 2 195 000 kr: lagenhet-1-rum-39-m2-21763919/
+- Lägenhet, 3 rum, 82,5 m² — Älvsjö, 5 000 000 kr: lagenhet-3-rum-82-5-m2-21789491/
+- Lägenhet, 6 rum, 159,5 m² — Södermalm - Tanto, 13 500 000 kr: lagenhet-6-rum-159-5-m2-21791512/
+- Villa, 6 rum, 101 m² — Enskedefältet - Enskede, 11 950 000 kr: villa-6-rum-101-m2-21794264/
+- Lägenhet, 4 rum, 87 m² — Liljeholmen, 6 495 000 kr: lagenhet-4-rum-87-m2-21794443/
+- Lägenhet, 4 rum, 94,5 m² — Södermalm - Tanto, 9 250 000 kr: lagenhet-4-rum-94-5-m2-21794834/
+- Lägenhet, 2 rum, 56 m² — Fruängen, 2 695 000 kr: lagenhet-2-rum-56-m2-21795141/
+- Lägenhet, 3 rum, 79,3 m² — Sköndal, 2 795 000 kr: lagenhet-3-rum-79-3-m2-21795166/
+- Lägenhet, 3 rum, 67 m² — Ormkärr, 1 695 000 kr: lagenhet-3-rum-67-m2-21796237/
+- Par-/kedje-/radhus, 5 rum, 109 m² — Fårdala, 4 795 000 kr: par-kedje-radhus-5-rum-109-m2-21796362/
+- Lägenhet, 5 rum, 107 m² — Viksjö - Järfälla, 1 895 000 kr: lagenhet-5-rum-107-m2-21796710/
+- Lägenhet, 3 rum, 74 m² — Ör, 2 995 000 kr: lagenhet-3-rum-74-m2-21887747/
